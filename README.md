@@ -10,4 +10,4 @@ Goodness-of-fit Test for Semiparametric Copula Models
 # model_functions.R: R functions implementing the Kendall's \tau
 # step1.R: R functions computing the marginal survival function by NPMLE 
 # step2.R: R functions computing the copula parameter
-# likelihood.R: R functions implementing log-likelihood
+# likhood.R: R functions implementing log-likelihood
